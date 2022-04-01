@@ -15,3 +15,5 @@ Clone da funcionalidade do submenu do [Strapi](https://stripe.com/) utilizando C
 5. Abrir [http://localhost:3000](http://localhost:3000) no browser.
 
 ## Demo
+
+https://submenus-app.netlify.app/
